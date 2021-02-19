@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Robin Debreuil",
+	"description":	{
+		"":	"Captures sketch data to be reused with DecodeSketch"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
